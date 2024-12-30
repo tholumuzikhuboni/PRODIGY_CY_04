@@ -14,6 +14,7 @@ This repository contains a basic keylogger program created during my cybersecuri
 2. Install the `pynput` library by running:  
   ```bash
   pip install pynput
+```
 
 ### Running the Script  
 
@@ -21,9 +22,11 @@ This repository contains a basic keylogger program created during my cybersecuri
    ```bash
    git clone https://github.com/tholumuzikhuboni/PRODIGY_CY_04.git
    cd PRODIGY_CY_04
+   ```
 2. Run the script:  
    ```bash
    python keylogger.py
+   ```
 3. The keystrokes will be logged in a file named `key_log.txt` in the same directory.
 
 ### Stopping the Script  
