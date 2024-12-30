@@ -1,4 +1,4 @@
-# Keylogger Cybersecurity Project  
+# Keylogger Project  
 
 This repository contains a basic keylogger program created during my cybersecurity internship at Prodigy Infotech. The project demonstrates my understanding of Python programming, system monitoring, and ethical hacking principles.  
 
